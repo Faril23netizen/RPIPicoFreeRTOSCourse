@@ -17,10 +17,10 @@
 #define TASK_PRIORITY		( tskIDLE_PRIORITY + 1UL )
 
 //LED PAD to use
-#define LED_PAD				0
+#define LED_PAD				3
 
 //Blink Delay
-#define DELAY				500
+#define DELAY				1000
 
 
 
